@@ -42,5 +42,5 @@ to make using Java better.
         
   
 ## 🚀 About Me
-I'm a nub Programmer... 😌
+I'm a Nub Programmer... 😌
 
