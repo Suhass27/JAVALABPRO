@@ -8,7 +8,7 @@ Java is one of the most popular programming languages
   compile a list of libraries, practices, and tools 
 to make using Java better.
 
-Table of contents
+# Table of contents
 
  1) Getting started with JAVA.
 2. Program1 Folder consists of -
